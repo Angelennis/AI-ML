@@ -1,13 +1,112 @@
-## Professional Bio
-Angel Ennis is a highly accomplished IT leader with over 15 years of experience in technology initiatives, team management, and strategic IT transformations across various sectors. She currently serves as an Engineering Manager and Principal Engineer at GEICO, where she has developed automation solutions for Network Reliability Engineering, streamlined configuration management, and led cost-saving initiatives projected to save $40 million. Angel is known for fostering a culture of innovation and collaboration, aligning teams with Agile methodologies and ITIL practices, and championing inclusivity and equitable compensation.
+# Meet Angel Ennis
+## My Professional Journey
+```mermaid
+---
+config:
+  sankey:
+    showValues: false
+    linkColor: gradient
+---
+sankey-beta
+    Leadership, University of West Florida, 20 
+    Data Science, University of West Florida, 20 
+    Engineering, University of West Florida, 20  
+    Project Management, University of West Florida, 15 
+    Development/Automation, University of West Florida, 25 
+    Data Science, Postgraduate AI & Machine Learning, 60 
+    Engineering, Postgraduate AI & Machine Learning, 15  
+    Development/Automation, Postgraduate AI & Machine Learning, 25 
+    Data Science, Executive Education AI & Decision Science, 70 
+    Engineering, Executive Education AI & Decision Science, 10  
+    Development/Automation, Executive Education AI & Decision Science, 10
+    Leadership, Executive Education AI & Decision Science, 10 
+    Leadership, U.S. Coast Guard, 28 
+    Data Science, U.S. Coast Guard, 6 
+    Engineering, U.S. Coast Guard, 33  
+    Project Management, U.S. Coast Guard, 20 
+    Development/Automation, U.S. Coast Guard, 13 
+    Leadership, Developer, 10 
+    Data Science, Developer, 25
+    Engineering, Developer, 25 
+    Project Management, Developer, 10
+    Development/Automation, Developer, 30 
+    Leadership, Jackson National Life, 20
+    Data Science, Jackson National Life, 20
+    Engineering, Jackson National Life, 20
+    Project Management, Jackson National Life, 15
+    Development/Automation, Jackson National Life, 25
+    Leadership, Tech Mahindra, 25 
+    Data Science, Tech Mahindra, 10
+    Project Management, Tech Mahindra, 50 
+    Development/Automation, Tech Mahindra, 15 
+    Leadership, Michigan Senate, 40 
+    Engineering, Michigan Senate, 10  
+    Project Management, Michigan Senate, 40
+    Development/Automation, Michigan Senate, 10
+    Leadership, GEICO Engineering Manager, 40  
+    Data Science, GEICO Engineering Manager, 10 
+    Engineering, GEICO Engineering Manager, 10  
+    Project Management, GEICO Engineering Manager, 30  
+    Development/Automation, GEICO Engineering Manager, 10 
+    Data Science, GEICO Principal Engineer, 50  
+    Engineering, GEICO Principal Engineer, 25  
+    Development/Automation, GEICO Principal Engineer, 25  
+    Data Science, Tableau Certifications, 100  
+    Leadership, ITIL Certification, 40  
+    Project Management, ITIL Certification, 60
+    Leadership, Dale Carnegie, 100 
+    Data Science, AI & Agility, 20  
+    Engineering, Learning Kubernetes, 50  
+    Project Management, Certified ScrumMaster, 100 
+    Development/Automation, Learning Kubernetes, 50
+    Leadership, AI & Agility, 20  
+    Project Management, AI & Agility, 60 
+    Leadership, Harvard ManageMentor, 70  
+    Project Management, Harvard ManageMentor, 30
+    Data Science, AI & Agility with SCRUM, 70  
+    Project Management, AI & Agility with SCRUM, 30 
+```
 
-Before joining GEICO, Angel served as the Information Technology Manager for the Michigan Senate from 2020 to 2023. In this role, she managed and supervised IT activities, implemented robust security procedures, and led special projects that significantly improved service efficiencies within the organization. Her leadership and strategic vision helped enhance the Senate's technology infrastructure, ensuring alignment with their information systems requirements.
+## Bio
+Angel Ennis is a highly accomplished IT leader with over 15 years of experience in technology initiatives, team management, and strategic IT transformations across various sectors.
 
-Angel's career at Jackson National Life Insurance Company spanned from 2012 to 2019, where she held various roles, including Operations Manager, Lead Engineer, and Software Delivery Automation Engineer. She successfully led numerous projects, including software upgrades, system retirements, and the implementation of BMC FootPrints software. Her contributions significantly improved asset management and deployment processes, reduced security risks, and enhanced communication and process clarity across departments.
+### Current Role: GEICO
+- **Engineering Manager and Principal Engineer**
+  - Developed automation solutions for Network Reliability Engineering.
+  - Streamlined configuration management and compliance for network appliances.
+  - Led cost-saving initiatives projected to save $40 million.
+  - Fostered a culture of innovation and collaboration.
 
-Angel holds dual Bachelor's degrees in Information Technology and Communication Arts from the University of West Florida. She has furthered her education with an Executive Education Program in Decision Science and AI, and a Graduate Certificate in Artificial Intelligence & Machine Learning: Business Applications from the University of Texas, McCombs School of Business. Her technical expertise is complemented by certifications in ITIL® Foundation Certificate in IT Service Management, Certified ScrumMaster® (CSM), and various Tableau Software courses.
+### Previous Role: Michigan Senate (2020-2023)
+- **Information Technology Manager**
+  - Managed and supervised IT activities and teams.
+  - Implemented robust security procedures.
+  - Led projects that significantly improved service efficiencies.
 
-Throughout her career, Angel has been recognized for her outstanding performance and dedication. She received military honors, including two Letters of Commendation for her exceptional service during the 2008 Hurricane Season and Hurricane IKE response. She is also an active participant in recruiting activities, engaging with students at the University of Michigan to attract top talent to GEICO Tech.
+### Jackson National Life Insurance Company (2012-2019)
+- **Roles**: Operations Manager, Lead Engineer, Software Delivery Automation Engineer
+  - Successfully led numerous projects including software upgrades and system retirements.
+  - Improved asset management and deployment processes.
+
+### Education
+- **University of West Florida**
+  - Bachelor of Science in Information Technology
+  - Bachelor of Arts in Communication Arts
+- **University of Texas, McCombs School of Business**
+  - Executive Education Program - Decision Science and AI
+  - Graduate Certificate - Artificial Intelligence & Machine Learning: Business Applications
+
+### Certifications
+- **ITIL® Foundation Certificate in IT Service Management** (July 2022 - July 2025)
+- **Certified ScrumMaster® (CSM)** (September 2023 - September 2025)
+- **Tableau Software**
+  - Tableau Desktop I & II: Accelerated (February 2019)
+  - Tableau Desktop III: Advanced (March 2019)
+
+### Awards
+- **Military Honors**:
+  - **Letters of Commendation** for outstanding performance during the 2008 Hurricane Season and Hurricane IKE response.
+  - Recognized for exceptional service and leadership in multiple critical situations.
 
 Angel's professional journey is marked by her commitment to continuous improvement, innovation, and leadership. Her extensive experience, technical proficiency, and passion for fostering inclusive environments make her a valuable asset to any organization.
 
@@ -19,6 +118,54 @@ One of the notable events was my participation as a speaker at a lunch organized
 
 In addition to speaking engagements, I attended career fairs and networking events, engaging with students, answering their questions, and providing information about GEICO's internships and job opportunities. My involvement in these activities helped strengthen GEICO's presence at the University of Michigan and contributed to building a pipeline of talented and diverse candidates for the company.
 
+```mermaid
+gantt
+    title Career Timeline
+    dateFormat  YYYY-MM-DD
+    
+    section Education
+    Attended University of West Florida : 2000-08-01, 2005-12-15
+    Earned BS. IT & BA. Comms : milestone, 2005-12-16
+    MS Information Technology Management, TUI : 2010-11-15, 2012-06-30
+    Postgraduate Program in AI & Machine Learning, UT McCombs School of Business :active, 2024-06-01, 2024-10-30
+    Executive Education Program in AI & Decision Science, UT McCombs School of Business : 2024-04-01, 2024-05-10
+    Computational Thinking using Python, MIT   : 2023-10-01, 2024-03-01
+    
+    section Employment
+    Developer, CPSI                      : 2008-05-01, 2011-05-31
+    Jackson National Life                : 2012-09-12, 2019-12-01
+    Help Desk Analyst                    : milestone, 2012-09-01
+    Promotion - Software Delivery Automation Engineer I : milestone, 2013-09-01
+    Promotion - Software Delivery Automation Engineer II : milestone, 2015-09-01
+    Promotion - Lead Engineer, Software Delivery Automation : milestone, 2016-09-01
+    Promotion - Operations Manager, Software Delivery Automation Engineering, Tech Mahindra : milestone, 2019-12-01
+    Information Technology Manager, Michigan Senate : 2020-10-01, 2023-01-31
+    Engineering Manager / Principal Engineer, GEICO :active, 2023-02-01, until 
+
+    section Military
+    Enlisted in U.S. Coast Guard               : 2007-07-07, 2013-07-08
+    Information Systems Technician 'A' School  : 2007-09-01, 2008-04-30
+    Deployed IT Support Hurricane Recovery     : 2008-09-01, 2008-10-31
+    Commandant Letter of Commendation          : milestone, 2008-12-31
+    Commandant Letter of Commendation(Ops)     : milestone, 2009-01-08
+    Coast Guard Unit Commendation(Ops)         : milestone, 2009-01-21
+    Deployed Port Security Training            : 2009-07-01, 2009-08-31
+    Individual Warrior Spirit Award            : milestone, 2009-09-01
+    Deployed IT Support Deepwater Horizon Command : 2010-09-01, 2011-01-31
+    
+    section Certifications and Continuing Education
+    Tableau Desktop I, Tableau                 : milestone, 2019-02-28
+    Tableau Desktop II, Tableau                : milestone, 2019-02-29
+    Tableau Advanced Desktop III, Tableau      : milestone, 2019-03-01
+    ITIL v4 Foundation, Axelos                 : milestone, 2022-07-01
+    Certified ScrumMaster, Scrum Alliance      : milestone, 2023-09-01
+    Leadership Certificate, Dale Carnegie      : milestone, 2016-04-01
+    RPA, Automation Anywhere                   : milestone, 2020-07-28
+    RPA, Al, and Cognitive Tech for Leaders    : milestone, 2020-08-19
+    Learning Kubernetes, LinkedIn Learning     : milestone, 2023-06-30
+    Harvard ManageMentor                       : active, 2023-04-07, 2024-03-18
+    AI & Agility Scrum Alliance                : milestone, 2024-03-03
+```
 ## My CV
 ### GEICO (Feb 2023 - Present)
 - **Role**: Engineering Manager / Principal Engineer
