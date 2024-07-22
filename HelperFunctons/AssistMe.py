@@ -1,6 +1,7 @@
 '''Must add the 1PasswordCLI and setup before this will function
 follow 1Password documentation
 https://developer.1password.com/docs/cli/get-started/?utm_medium=organic&utm_source=oph&utm_campaign=macos
+be sure to import the class
 '''
 import subprocess
 import json
