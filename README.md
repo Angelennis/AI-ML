@@ -67,10 +67,7 @@ sankey-beta
     Project Management, AI & Agility with SCRUM, 30 
 ```
 
-## Bio
-Angel Ennis is a highly accomplished IT leader with over 15 years of experience in technology initiatives, team management, and strategic IT transformations across various sectors.
-
-### Current Role: GEICO
+### GEICO
 - **Engineering Manager and Principal Engineer**
   - Developed automation solutions for Network Reliability Engineering.
   - Streamlined configuration management and compliance for network appliances.
@@ -107,8 +104,6 @@ Angel Ennis is a highly accomplished IT leader with over 15 years of experience 
 - **Military Honors**:
   - **Letters of Commendation** for outstanding performance during the 2008 Hurricane Season and Hurricane IKE response.
   - Recognized for exceptional service and leadership in multiple critical situations.
-
-Angel's professional journey is marked by her commitment to continuous improvement, innovation, and leadership. Her extensive experience, technical proficiency, and passion for fostering inclusive environments make her a valuable asset to any organization.
 
 ## Participation in Recruiting Activities at University of Michigan for GEICO Tech
 
